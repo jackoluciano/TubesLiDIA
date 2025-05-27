@@ -1,12 +1,9 @@
 from matplotlib import pyplot as plt 
 
 import numpy as np
-
 import pandas as pd
 
-data = pd.read_csv("AI VIBRANCY.csv")
-
-
+data = pd.read_excel("DATASET/AI_VIBRANCY.xlsx")
 
 # Diambil 5 negara unggul untuk divisualisasi
 negara = ['united states', 'china', 'india', 'canada', 'united kingdom']

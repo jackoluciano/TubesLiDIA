@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 import pandas as pd
 
-data = pd.read_csv("AI VIBRANCY.csv")
+data = pd.read_excel("DATASET/AI_VIBRANCY.xlsx")
 
 #1
 data_2021 = data[data['year'] == 2021]
