@@ -4,7 +4,7 @@ import pandas as pd
 
 # IMPOR DATA
 
-data1 = pd.read_excel("D:/TUGAS LIDIA/DATASET/AI_VIBRANCY.xlsx", na_values=["-"])
+data1 = pd.read_excel("DATASET/AI_VIBRANCY.xlsx", na_values=["-"])
 print(data1)
 
 # KAMUS DATA

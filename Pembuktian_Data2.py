@@ -2,7 +2,7 @@ import pandas as pd
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
 
-df = pd.read_excel('D:/TUGAS LIDIA/DATASET/AI_VIBRANCY.xlsx', nrows=146)
+df = pd.read_excel('DATASET/AI_VIBRANCY.xlsx', nrows=146)
 
 x = df['number_of_newly_funded_companies']
 y = df['vibrancy']

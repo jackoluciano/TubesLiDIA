@@ -1,7 +1,7 @@
 import pandas as pd
 import statsmodels.api as sm
 
-df = pd.read_excel('D:/TUGAS LIDIA/DATASET/AI_INDEX.xlsx', usecols='B:I', nrows=63)
+df = pd.read_excel('DATASET/AI_INDEX.xlsx', usecols='B:I', nrows=63)
 df.columns = ['talent', 'infrastructure', 'operating', 'research', 'development', 'government', 'commercial', 'total']  #nama kolom eksplisit
 
 columns = df.columns.tolist()  #ambil semua nama kolom untuk perbandingan berpasangan

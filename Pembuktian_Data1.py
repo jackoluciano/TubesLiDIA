@@ -3,7 +3,7 @@ import statsmodels.api as sm
 import matplotlib.pyplot as plt
 
 #ambil kolom research dan total saja
-df = pd.read_excel('D:/TUGAS LIDIA/DATASET/AI_INDEX.xlsx', usecols='E,I', nrows=63)
+df = pd.read_excel('DATASET/AI_INDEX.xlsx', usecols='E,I', nrows=63)
 df.columns = ['research', 'total']
 
 x = df['research']

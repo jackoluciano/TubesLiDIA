@@ -3,7 +3,7 @@ import statsmodels.api as sm
 import matplotlib.pyplot as plt
 
 #NaN handling
-df = pd.read_excel("D:/TUGAS LIDIA/DATASET/AI_VIBRANCY.xlsx", usecols="C:O,AE", nrows=146, na_values=["-"])
+df = pd.read_excel("DATASET/AI_VIBRANCY.xlsx", usecols="C:O,AE", nrows=146, na_values=["-"])
 
 df.columns = [
     "private_investment",
