@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 
-data = pd.read_csv("AI VIBRANCY.csv")
+data = pd.read_excel("DATASET/AI_VIBRANCY.xlsx")
 
 # 1. Karena nilainya sangat besar dan timpang, gunakan log agar distribusi lebih merata
 data['log_patent_fillings'] = np.log1p(data['number_of_total_patent_fillings'])
