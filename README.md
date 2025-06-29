@@ -6,8 +6,6 @@ Belva Charissa  	(18224051)
 Sherry Eunike 		(18224075)
 Jacko Luciano 		(18224101)
 
-Berikut adalah versi lengkap README dengan notasi markdown yang bisa Anda salin sepenuhnya:
-
 # Proyek Pengolahan Data: AI Global Index dan AI Index 2022
 
 ## Deskripsi
