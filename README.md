@@ -1,10 +1,10 @@
 Halo! Repositori ini dibuat untuk tugas LiDIA kelompok 2 kelas 34 beranggotakan:
 
-Keira Amelie 	  	(18224003)
-Mineva Azzahra  	(18224029)
-Belva Charissa  	(18224051)
-Sherry Eunike 		(18224075)
-Jacko Luciano 		(18224101)
+- Keira Amelie 	  	(18224003)
+- Mineva Azzahra  	(18224029)
+- Belva Charissa  	(18224051)
+- Sherry Eunike 		(18224075)
+- Jacko Luciano 		(18224101)
 
 # Proyek Pengolahan Data: AI Global Index dan AI Index 2022
 
