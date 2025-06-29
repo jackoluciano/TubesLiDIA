@@ -59,4 +59,4 @@ Proyek ini mencakup pemrosesan data, analisis statistik, dan visualisasi untuk m
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail.
+Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](https://mit-license.org/) untuk detail.
